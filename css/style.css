@@ -1752,8 +1752,8 @@ form label.error {
 }
 
 .header-fixed .logo a {
-    margin-top: 15px;
-    margin-bottom: 15px;
+    /* margin-top: 15px;
+    margin-bottom: 15px; */
     width: 160px;
     transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
@@ -1771,8 +1771,8 @@ form label.error {
     }
 
         .header .logo a {
-            margin-top: 15px;
-            margin-bottom: 15px;
+            /* margin-top: 15px;
+            margin-bottom: 15px; */
             width: 160px;
             transition: all 0.3s ease 0s;
             -o-transition: all 0.3s ease 0s;
@@ -1791,12 +1791,13 @@ form label.error {
     .logo a {
         width: 180px;
         display: block;
-        margin-top: 30px;
-        margin-bottom: 30px;
+        /* margin-top: 30px;
+        margin-bottom: 30px; */
         transition: all 0.3s ease 0s;
         -o-transition: all 0.3s ease 0s;
         -moz-transition: all 0.3s ease 0s;
         -webkit-transition: all 0.3s ease 0s;
+        line-height: 65px;
     }
 
         .logo a img {

@@ -456,11 +456,11 @@
         $('.team-carousel').owlCarousel({
             autoPlay: false,
             stopOnHover: true,
-            items: 4,
+            items: 3,
             itemsDesktop: [1170, 3],
-            itemsDesktopSmall: [1000, 2],
-            itemsTabletSmall: [768, 1],
-            itemsMobile: [480, 1],
+            itemsDesktopSmall: [1000, 3],
+            itemsTabletSmall: [768, 3],
+            itemsMobile: [480, 1.2],
             pagination: false,  // Hide pagination buttons
             navigation: false,  // Hide next and prev buttons
             navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
